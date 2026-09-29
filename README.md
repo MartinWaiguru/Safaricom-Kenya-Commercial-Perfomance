@@ -31,7 +31,3 @@ Any unresolved issues, assumptions or limitations should be documented in the pr
 - Microsoft Excel
 - Microsoft Power BI
 - AI software: ChatGPT
-
-## Transparency Statement
-
-AI contributed to parts of
