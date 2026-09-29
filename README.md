@@ -6,7 +6,7 @@ Safaricom Commercial Performance Analysis
 ## Purpose
 This document records the use of AI tools during the development of this project. It promotes transparency about AI assistance and distinguishes AI-supported work from my own contributions.
 
-## AI Assistance
+## Chat GPT
 
 AI was used as a learning and development assistant during selected stages of the project. The assistance included:
 
@@ -30,10 +30,8 @@ Any unresolved issues, assumptions or limitations should be documented in the pr
 
 - Microsoft Excel
 - Microsoft Power BI
-- AI assistance: ChatGPT
-
-Python was not used in this project.
+- AI software: ChatGPT
 
 ## Transparency Statement
 
-AI contributed to parts of the learning, troubleshooting and development process. This worklog documents that assistance so that the project's development process is transparent. The final results should be interpreted in light of the documented methods, data sources and limitations.
+AI contributed to parts of
