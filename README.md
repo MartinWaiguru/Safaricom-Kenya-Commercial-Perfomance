@@ -94,7 +94,7 @@ The project focuses on the indicators included in the prepared dataset. It is no
 | GitHub             | Project versioning, documentation and portfolio presentation                         |
 | Generative AI      | Learning support, formula explanations, troubleshooting and documentation assistance |
 
-**Python and SQL were not used in this version of the project.** The analysis was completed using Excel and Power BI.
+**Python and SQL were not used in this version of the project.**
 
 ---
 
