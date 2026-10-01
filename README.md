@@ -80,7 +80,7 @@ The project was designed to:
 | Dashboard         | Interactive, with financial-year, business-area and customer-KPI filters |
 | Intended audience | Business analysts, commercial teams, management and other stakeholders   |
 
-The project focuses on the indicators included in the prepared dataset. It is not a comprehensive assessment of Safaricom's entire financial position.
+The project focuses on the indicators included in the prepared dataset.
 
 ---
 
