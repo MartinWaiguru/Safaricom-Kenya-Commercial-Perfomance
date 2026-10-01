@@ -92,9 +92,8 @@ The project focuses on the indicators included in the prepared dataset.
 | Microsoft Power BI | Interactive dashboard development, data modelling and visualisation                  |
 | DAX                | Measures and context-sensitive calculations in Power BI                              |
 | GitHub             | Project versioning, documentation and portfolio presentation                         |
-| Generative AI      | Learning support, formula explanations, troubleshooting and documentation assistance |
+| Generative AI      | Formula explanations, troubleshooting and documentation assistance |
 
-**Python and SQL were not used in this version of the project.**
 
 ---
 
