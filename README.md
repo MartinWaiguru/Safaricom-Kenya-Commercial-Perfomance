@@ -99,7 +99,6 @@ The project focuses on the indicators included in the prepared dataset.
 
 ## 5. Data Sources
 
-The analysis 
 The source material consists of the company's published annual financial results and associated results booklets. The selected figures were organised into structured tables for analysis.
 
 ### Data categories
