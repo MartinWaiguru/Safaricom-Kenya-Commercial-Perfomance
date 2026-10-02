@@ -228,7 +228,7 @@ The dashboard is designed to provide a consolidated view of Safaricom's commerci
 
 ### Dashboard preview
 
-![Safaricom Commercial Performance Dashboard](dashboard/Safaricom-financial-Analysis.png)
+![Safaricom Commercial Performance Dashboard](dashboard/SafaricomfinancialAnalysis.png)
 
 
 ### Dashboard components
