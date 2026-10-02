@@ -230,7 +230,6 @@ The dashboard is designed to provide a consolidated view of Safaricom's commerci
 
 ![Safaricom Commercial Performance Dashboard](dashboard/dashboard-overview.png)
 
-*Replace the image path above if your final screenshot has a different filename or location.*
 
 ### Dashboard components
 
