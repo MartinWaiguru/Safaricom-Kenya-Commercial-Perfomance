@@ -42,8 +42,6 @@ These are descriptive observations from the prepared dataset, not explanations o
 
 **Workflow:** Publicly reported data → structured Excel tables → YoY growth, revenue mix and CAGR calculations → Power BI dashboard → business findings.
 
-Python and SQL were not used in this version of the project.
-
 ## Data Scope
 
 * **Company:** Safaricom PLC
@@ -66,6 +64,6 @@ Open the `.pbix` file in Power BI Desktop to explore the report. If the data sou
 
 ## AI Assistance
 
-Generative AI was used as a learning aid for formula explanations, Power BI troubleshooting and documentation. This is an AI-assisted portfolio project; calculations and interpretations should be reviewed against the workbook and source reports.
+Generative AI was used as a learning aid for formula explanations, Power BI troubleshooting and documentation. This is an AI-assisted portfocalculations and interpretations should be reviewed against the workbook and source reports.
 
 **Author:** Martin Waiguru
