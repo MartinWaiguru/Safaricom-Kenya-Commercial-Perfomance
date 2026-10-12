@@ -60,4 +60,4 @@ The analysis uses public reports rather than internal transaction-level data.
 
 ## AI Assistance
 
-Generative AI was used as a learning aid for formula explanations, Power BI troubleshooting and documentation. This is an AI-assisted portfocalculations and interpretations should be reviewed against the workbook and source reports.
+Generative AI was used for formula fixing, Power BI troubleshooting and documentation. Chat GPT was used to generate relevant business questions for me to answer with the analysis.
