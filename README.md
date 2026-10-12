@@ -48,7 +48,7 @@ Based on the figures prepared for this analysis:
 * **Additional data:** Selected publicly reported customer and usage KPIs
 * **Revenue units:** KSh billions; customer metrics retain their reported units
 
-The analysis uses public reports rather than internal transaction-level data. Reporting definitions, segment classifications and rounding may affect comparisons across years. This is a historical commercial analysis, not a forecast or a full profitability assessment.
+The analysis uses public reports rather than internal transaction-level data.
 
 ## Project Files
 
