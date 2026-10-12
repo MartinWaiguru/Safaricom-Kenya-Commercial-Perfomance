@@ -30,8 +30,6 @@ Based on the figures prepared for this analysis:
 * **Connectivity revenue:** Increased from approximately **KSh 161.70 billion** to **KSh 197.87 billion** over the same period.
 * **Fixed Service & IoT revenue:** Increased from approximately **KSh 11.72 billion** to **KSh 20.20 billion**.
 
-These are descriptive observations from the prepared dataset, not explanations of what caused the changes or forecasts of future performance.
-
 ## Tools and Method
 
 | Tool            | Use                                                                 |
