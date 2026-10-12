@@ -12,7 +12,7 @@ Safaricom's public reports contain revenue and customer performance measures acr
 
 ## Dashboard
 
-The Power BI dashboard includes:
+The Power BI dashboard:
 
 * Annual revenue and total year-on-year (YoY) revenue growth.
 * Revenue trends and revenue mix by business area.
@@ -56,9 +56,9 @@ The analysis uses public reports rather than internal transaction-level data.
 * `data/` — source and prepared data, where included
 * `excel/` — Excel workbook and calculations
 * `power-bi/` — Power BI report file
-* `ai/` — AI assistance worklog, if included
+* `ai/` — AI worklog
 
-Open the `.pbix` file in Power BI Desktop to explore the report. If the data source path differs from the original
+Open the `.pbix` file in Power BI Desktop to explore the report. If the data source path
 
 ## AI Assistance
 
