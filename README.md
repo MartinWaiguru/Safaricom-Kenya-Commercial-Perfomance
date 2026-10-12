@@ -58,8 +58,6 @@ The analysis uses public reports rather than internal transaction-level data.
 * `power-bi/` — Power BI report file
 * `ai/` — AI worklog
 
-Open the `.pbix` file in Power BI Desktop to explore the report. If the data source path
-
 ## AI Assistance
 
 Generative AI was used as a learning aid for formula explanations, Power BI troubleshooting and documentation. This is an AI-assisted portfocalculations and interpretations should be reviewed against the workbook and source reports.
