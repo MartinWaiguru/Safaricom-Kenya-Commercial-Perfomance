@@ -60,7 +60,7 @@ The analysis uses public reports rather than internal transaction-level data. Re
 * `power-bi/` — Power BI report file
 * `ai/` — AI assistance worklog, if included
 
-Open the `.pbix` file in Power BI Desktop to explore the report. If the data source path differs from the original setup, update the source connection before refreshing.
+Open the `.pbix` file in Power BI Desktop to explore the report. If the data source path differs from the original
 
 ## AI Assistance
 
