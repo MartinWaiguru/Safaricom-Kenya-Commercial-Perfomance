@@ -61,5 +61,3 @@ The analysis uses public reports rather than internal transaction-level data.
 ## AI Assistance
 
 Generative AI was used as a learning aid for formula explanations, Power BI troubleshooting and documentation. This is an AI-assisted portfocalculations and interpretations should be reviewed against the workbook and source reports.
-
-**Author:** Martin Waiguru
