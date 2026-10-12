@@ -56,7 +56,6 @@ The analysis uses public reports rather than internal transaction-level data.
 * `data/` — source and prepared data, where included
 * `excel/` — Excel workbook and calculations
 * `power-bi/` — Power BI report file
-* `ai/` — AI worklog
 
 ## AI Assistance
 
